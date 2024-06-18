@@ -1,1 +1,1 @@
-# WhitePaper
+# WhitePaper (ru)
